@@ -1,6 +1,6 @@
 - Hi there👋
 - I'm Berk!
-- I'm currently enrolled as a college degree student in computer engineering.
+- I'm currently enrolled as an undergraduate student in computer engineering.
 - I’m currently learning Java, Python and Javascript.
 
 
