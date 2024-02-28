@@ -1,7 +1,7 @@
 - Hi there👋
 - I'm Berk!
 - I'm studying for a bachelor's degree in computer engineering.
-- I’m currently coding with Java, Python and Javascript.
+- I’m currently working with Java, Python, Javascript, React.js, Node.js, HTML and CSS.
 
 
 <!---
