@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Berk</h1>
-<h3 align="center">I'm studying for a bachelor's degree in computer engineering. I’m currently working with Java, Python, Javascript, React.js, Node.js, HTML and CSS.</h3>
-
-- 📫 How to reach me **berk.belhan@tedu.edu.tr**
-
+<h3 align="center">I'm studying for a bachelor's degree in computer engineering.</h3>
+- I’m currently working with Java, Python, Javascript, React.js, Node.js, HTML and CSS.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/berkbelhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkbelhan" height="30" width="40" /></a>
