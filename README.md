@@ -1,10 +1,20 @@
 <h1>Oi there!</h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BerkBelhan&show_icons=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=BerkBelhan&show_icons=true&theme=default">
-  <img src="https://github-readme-stats.vercel.app/api?username=BerkBelhan&show_icons=true&theme=default" alt="Berk's GitHub stats">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://their-github-stats.vercel.app/api?username=BerkBelhan&show_icons=true&theme=dark"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://their-github-stats.vercel.app/api?username=BerkBelhan&show_icons=true&theme=default"
+  >
+  <img
+    src="https://their-github-stats.vercel.app/api?username=BerkBelhan&show_icons=true&theme=default"
+    alt="Berk's GitHub stats"
+  >
 </picture>
+
 
 
 <!---
