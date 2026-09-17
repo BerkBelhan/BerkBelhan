@@ -3,15 +3,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-phi-lac-86.vercel.app/api?username=BerkBelhan&show_icons=true&theme=dark"
-    
+    srcset="https://github-readme-stats-phi-lac-86.vercel.app/api?username=BerkBelhan&show_icons=true&count_private=true&include_all_commits=true&theme=dark"
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-phi-lac-86.vercel.app/api?username=BerkBelhan&show_icons=true&theme=light"
+    srcset="https://github-readme-stats-phi-lac-86.vercel.app/api?username=BerkBelhan&show_icons=true&count_private=true&include_all_commits=true&theme=light"
   >
   <img
-    srcset="https://github-readme-stats-phi-lac-86.vercel.app/api?username=BerkBelhan&show_icons=true&theme=default"
+    src="https://github-readme-stats-phi-lac-86.vercel.app/api?username=BerkBelhan&show_icons=true&count_private=true&include_all_commits=true&theme=default"
     alt="Berk's GitHub stats"
   >
 </picture>
